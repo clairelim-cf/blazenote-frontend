@@ -1,6 +1,6 @@
 # blazenote (for frontend)
 
-this repository is part of the BlazeHack Workshop Series, designed to help participants build scalable, secure apps using Cloudflare services.
+The repository is part of the BlazeHack Workshop Series, designed to help participants build scalable, secure apps using Cloudflare services.
 
 In this workshop, we will be using the following repos:
 
